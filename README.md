@@ -293,6 +293,8 @@ Releasing images web to peaceful-badlands-85887... done
 3. Search for **Accent** and select it
 4. Click **Create** to deploy the service
 
+<img src="docs/easypanel_deployed.png" alt="Accent deployed on Easypanel" width="70%">
+
 See the [official Accent template on Easypanel](https://easypanel.io/templates/accent) for more details.
 
 ## 🌎 Contribute
